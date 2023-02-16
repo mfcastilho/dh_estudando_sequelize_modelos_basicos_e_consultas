@@ -1,1 +1,1 @@
-# dh_esctudando_sequelize_modelos_basicos_e_consultas
+# dh Estudando sequelize - Modelos Básicos e Consultas
